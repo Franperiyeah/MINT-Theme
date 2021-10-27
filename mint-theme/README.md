@@ -7,6 +7,11 @@
 This theme for visual studio code is based on mint and the colors that mint reminds me.
 
 This theme will be updated periodically to improve its use.
+
+## Screenshots
+
+![App Screenshot](https://i.postimg.cc/q7fdn6mN/Captura-de-pantalla-2021-10-27-a-las-22-23-14.png)
+
 ## 🔗 Links
 [Discord](https://discord.gg/RwZ3BWgsGz)
 

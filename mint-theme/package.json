@@ -2,7 +2,7 @@
     "name": "mint-theme",
     "displayName": "Mint-theme",
     "description": "Vs code theme based in the mint colors",
-    "version": "0.0.1",
+    "version": "0.0.4",
     "publisher": "FranRuizSantaclara",
     "repository": {
         "type": "git",
