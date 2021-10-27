@@ -1,0 +1,33 @@
+{
+    "name": "mint-theme",
+    "displayName": "Mint-theme",
+    "description": "Vs code theme based in the mint colors",
+    "version": "0.0.1",
+    "publisher": "FranRuizSantaclara",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Franperiyeah/MINT-Theme"
+    },
+    "keywords": [
+        "theme",
+        "dark",
+        "mint",
+        "dark theme",
+        "mint theme"
+    ],
+    "engines": {
+        "vscode": "^1.61.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Mint Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Mint Theme-color-theme.json"
+            }
+        ]
+    }
+}
